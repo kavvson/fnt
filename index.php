@@ -33,7 +33,7 @@ error_reporting(0);
         ga('send', 'pageview');
 
     </script>
-    <link rel="stylesheet" href="http://conanexiles-database.com/assets/css/main_custom.css">
+    <link rel="stylesheet" href="css/main_custom.css">
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"
             integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" data-cfasync="true"
             crossorigin="anonymous"></script>
